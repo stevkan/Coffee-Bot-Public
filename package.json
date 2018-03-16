@@ -1,0 +1,26 @@
+{
+    "name": "coffeebot",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Steven Kanberg",
+    "license": "ISC",
+    "dependencies": {
+        "adaptivecards": "^1.0.0-beta11",
+        "azure-storage": "^2.8.0",
+        "botbuilder": "^3.13.1",
+        "botbuilder-azure": "^3.0.4",
+        "botbuilder-cognitiveservices": "^1.1.0",
+        "mssql": "^4.1.0",
+        "reflect-metadata": "^0.1.12",
+        "restify": "^5.0.0"
+    },
+    "devDependencies": {
+        "request": "^2.81.0",
+        "typescript": "^2.7.2",
+        "zip-folder": "^1.0.0"
+    }
+}
